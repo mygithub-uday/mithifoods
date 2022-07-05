@@ -6,6 +6,10 @@
     --dark: #111111;
 }
 
+.site-logo {
+    width: 250px;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
